@@ -1,9 +1,12 @@
 <style>
-body {background-color: ghostwhite;} 
-    h1 {text-align: center;}
-    h2 {color:seagreen;}
+body {background-color: linen;} 
+    h1 {
+        text-align: center;
+        color:darksalmon;
+        }
+    h2 {color:midnightblue;}
     h3 {
-        color:midnightblue; 
+        color:seagreen; 
         text-align: center; 
         }
     p.normal {font-weight: normal;} 

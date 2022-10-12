@@ -1,12 +1,12 @@
 <style>
     body {background-color: snow;}
-    h2 {color:mediumaquamarine}
-    h3 {color:skyblue}
+    h2 {color:seagreen}
+    h3 {color:midnightblue}
     p.normal {font-weight: normal;} 
     p.light {font-weight: lighter;}
     p.thick {
         font-weight: bold; 
-        background-color: lightgray;
+        background-color: whitesmoke;
     }
     p.thick {font-weight: 900;}
 </style>

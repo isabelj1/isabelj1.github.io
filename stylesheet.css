@@ -1,0 +1,12 @@
+<style>
+    body {background-color: lightyellow;}
+    h2 {color:green}
+    h3 {color:blue}
+    p.normal {font-weight: normal;} 
+    p.light {font-weight: lighter;}
+    p.thick {
+        font-weight: bold; 
+        background-color: mistyrose;
+    }
+    p.thick {font-weight: 900;}
+</style>
